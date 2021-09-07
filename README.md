@@ -1,2 +1,11 @@
 # template_shr
+## In vivo symmetric multi-contrast MRI brain templates and atlas for spontaneously hypertensive rats
+### Organization: Hebei Medical University  
+### Center: The Second Hospital of Hebei Medical University
+
+## Summary
 We have created the in vivo symmetric multi-contrast MRI brain templates and atlas for spontaneously hypertensive rats named the Heibei Medical University rat template set (HRT). Structural T2WI, DTI and resting-state functional MRI (BOLD) scans that were used to build the template set were obtained from 8 SHRs longitudinally scanned in vivo at 10, 24 and 52 weeks of age. HRT comprised T2WI, FA, MD, raw DWI with a b-value of 0 s/mm2 (B0) and BOLD templates; tissue probability maps of gray matter, white matter and cerebrospinal fluid; and a whole-brain atlas with 163 labels. The cortical atlas was derived from the Tohoku atlas, and the subcortical regions were manually delineated. HRT was up-sampled to an isotropic resolution of 1 mm (after scaling 10). We hope that the HRT can serve as a beneficial tool for precise analysis of the SHR brain using structural and functional MRI, which can promote neuroimaging studies on essential hypertension. Number of patent application: 202110462436.2
+
+## Description
+We have created the in vivo symmetric multi-contrast MRI brain templates and atlas for spontaneously hypertensive rats named the Heibei Medical University rat template set (HRT). Structural T2WI, DTI and resting-state functional MRI (BOLD) scans that were used to build the template set were obtained from 8 SHRs longitudinally scanned in vivo at 10, 24 and 52 weeks of age. HRT comprised T2WI, FA, MD, raw DWI with a b-value of 0 s/mm2 (B0) and BOLD templates; tissue probability maps of gray matter, white matter and cerebrospinal fluid; and a whole-brain atlas with 163 labels. The cortical atlas was derived from the Tohoku atlas, and the subcortical regions were manually delineated. HRT was up-sampled to an isotropic resolution of 1 mm (after scaling 10). We hope that the HRT can serve as a beneficial tool for precise analysis of the SHR brain using structural and functional MRI, which can promote neuroimaging studies on essential hypertension.
+Number of patent application: 202110462436.2
